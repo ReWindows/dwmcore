@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "target": "dwmcore.dll",
+  "latest": "267582741-245D863552568E69CD9C8C4FD23F23D8-1",
+  "builds": [
+    {
+      "key": "267582741-245D863552568E69CD9C8C4FD23F23D8-1",
+      "timestamp": "267582741",
+      "pdb_guid": "245D863552568E69CD9C8C4FD23F23D8",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/267582741-245D863552568E69CD9C8C4FD23F23D8-1/ir.json",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ]
+}

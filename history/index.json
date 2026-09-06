@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "targets": [
+    {
+      "target": "dwmcore",
+      "file": "dwmcore.dll",
+      "index": "dwmcore/index.json",
+      "latest": "267582741-245D863552568E69CD9C8C4FD23F23D8-1",
+      "build_count": 1
+    }
+  ]
+}
